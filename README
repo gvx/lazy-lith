@@ -1,4 +1,4 @@
-Lith, a minimal data description language
+Lazy-Lith, a minimal lazy programming language based on Lith
 
 To use this, you need python (tested with 2.6 and 3.1).
 
@@ -32,3 +32,10 @@ Strings are represented by lists of numeric codes.
 
 A number of operations can be used on lists or T. They are explained in more
 detail at http://gvxdev.wordpress.com/2011/04/10/lith-revisited/.
+
+ABOUT LAZY-LITH
+
+Lazy-Lith is a minimal lazy programming language, based on and building on the
+core concepts of Lith.
+
+Currently just a copy of Lith.
